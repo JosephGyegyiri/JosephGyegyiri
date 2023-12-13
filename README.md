@@ -1,10 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JosephGyegyiri.JosephGyegyiri" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Joseph+Gyegyiri!;+A+passionate+Geospatial+Analyst;+GIS+Python+Coder;+GIS+Developer;+Land+Surveyor" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
 <br/>
 
@@ -69,12 +68,7 @@
 <br/>
 
 <div align="center">
-<a href='https://linkedin.com/in/josephgyegyiri' target='_blank'>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+passing by!+✌️;+Lets+connect+a+on+Linkedin!;">
-</a>
+    <a href="https://linkedin.com/in/josephgyegyiri" target="_blank"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+passing+by!+✌️;+Lets+connect+on+Linkedin!;"></a>
 </div>
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;">
-</h3>
 
 <br/>
