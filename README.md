@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JosephGyegyiri.JosephGyegyiri" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Joseph+Gyegyiri!;+A+passionate+Geospatial+Analyst;+GIS+Python+Coder;+GIS+Developer;+Land+Surveyor" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Joseph+Gyegyiri!;+A+passionate+GIS+Analyst;+GIS+Python+Coder;+GIS+Developer;+Land+Surveyor" />
 </h1>
 
 
