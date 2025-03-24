@@ -9,11 +9,11 @@
 
 <div align="center">
  
- 🔭 I’m a **GIS Analyst** at Hazen and Sawyer **working on Water Reseources Projects**
+ 🔭 I’m an **Assistant Engineer** at Hazen and Sawyer **working on Water Reseources Projects**
  
  🌱 I’m currently learning **Django, WebDev, Machine Learning**
 
-💬 Ask me about **GIS Programming, Geospatial Analysis, GeoAI,Esri ... or anything [here](https://github.com/JosephGyegyiri/JosephGyegyiri/issues)**
+💬 Ask me about **Water Resources Engineering, Data Science, GIS Programming, Geospatial Analysis, GeoAI,Esri ... or anything [here](https://github.com/JosephGyegyiri/JosephGyegyiri/issues)**
 
 
  </div>
