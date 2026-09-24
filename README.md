@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JosephGyegyiri.JosephGyegyiri" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Joseph+Gyegyiri!;+A+passionate;+Water+Resources+Engineer;+GIS+Analyst;+GIS+Python+Coder;+GIS+Developer;+Data+Analyst" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Joseph+Gyegyiri!;+A+passionate;+Water+Resources+Engineer;+Data+Scientist;+GIS+Developer;+Data+Analyst" />
 </h1>
 
 
@@ -11,7 +11,7 @@
  
  🔭 I’m an **Assistant Engineer** at Hazen and Sawyer **working on Water Reseources Projects**
  
- 🌱 I’m currently learning **Django, WebDev, Machine Learning**
+ 🌱 I’m currently learning **Engineering Design, WebDev, Machine Learning**
 
 💬 Ask me about **Water Resources Engineering, Data Science, GIS Programming, Geospatial Analysis, GeoAI,Esri ... or anything [here](https://github.com/JosephGyegyiri/JosephGyegyiri/issues)**
 
@@ -25,9 +25,13 @@
   <a href="https://linkedin.com/in/josephgyegyiri" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+
+  <!--
+    
   <a href="https://josephgyegyiri.github.io/portfolio/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+  
 </div>
 
  <hr/>
